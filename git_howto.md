@@ -34,3 +34,7 @@ git checkout master
 ```sh
 git diff
 ```
+Посмотреть список веток и репозиторий
+```sh
+git branch
+```
